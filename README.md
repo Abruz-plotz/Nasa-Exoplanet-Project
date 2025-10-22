@@ -15,7 +15,7 @@ This project analyzes NASA's Exoplanet Archive dataset using Python. The goal is
 
 ---
 
-## 🧠 Techniques Used
+##  Techniques Used
 
 - Principal Component Analysis (PCA) – for dimensionality reduction
 - K-Means Clustering – to identify groups of similar exoplanets
@@ -24,6 +24,7 @@ This project analyzes NASA's Exoplanet Archive dataset using Python. The goal is
 
 ##  Project Objectives
 
+- Know more about exoplanets
 - Analyze the number of exoplanets discovered using different methods.
 - Study discovery trends over the years.
 - Visualize relationships between planet mass, orbital period, and discovery method.
