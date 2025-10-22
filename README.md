@@ -10,12 +10,19 @@ This project analyzes NASA's Exoplanet Archive dataset using Python. The goal is
 
 - Python
 - Jupyter Notebook / Google Colab
-- Pandas, NumPy
+- Pandas, NumPy, Ski-kit learning
 - Matplotlib, Seaborn
 
 ---
 
-## 📌 Project Objectives
+## 🧠 Techniques Used
+
+- Principal Component Analysis (PCA) – for dimensionality reduction
+- K-Means Clustering – to identify groups of similar exoplanets
+
+---
+
+##  Project Objectives
 
 - Analyze the number of exoplanets discovered using different methods.
 - Study discovery trends over the years.
@@ -23,7 +30,7 @@ This project analyzes NASA's Exoplanet Archive dataset using Python. The goal is
 
 ---
 
-## 🧪 Dataset
+##  Dataset
 
 - Source: [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
 - Format: CSV
@@ -31,9 +38,13 @@ This project analyzes NASA's Exoplanet Archive dataset using Python. The goal is
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
+- The solar system with the most planets discovered is KOI-351 with 8 planets similar to our solar system.
+- Top 10 nearest exoplanets are within 3.6 light-years from Earth.
+- Exoplanet discovery peaked in 2016 with over 1517 planets discovered and was lowest at 1994 with 1 exoplanet being discovered.
+- Most exoplanets are found at about 270 degree radius and K-Means indicates that there is no clear pattern for distribution of similar exoplanets around earth.
+- 3D distribution shows exoplanets at northern sky from earth were mostly discovered in 2016 and exoplantes at southeren sky are mostly discovered after 2018.
 - **Transit** is the most widely used method for discovering exoplanets.
 - Discovery rates increased significantly after 2010, coinciding with the Kepler mission.
-- Some exoplanets have extremely short orbital periods (< 1 day), while others span hundreds of
 
