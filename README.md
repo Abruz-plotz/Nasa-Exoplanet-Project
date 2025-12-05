@@ -19,17 +19,21 @@ The dataset is “NASA Exoplanet Archive (July 2023)” from Kaggle shows confir
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1_1nUJrWUtDPcg2zcgDiKelo_Kk6GikOn/view?usp=drive_link)
 
 ---
+## 
 
-##  Tools & Technologies
+
+
+---
+##  Tools & Technologies 
+
+### Tools :-
 
 - Python
 - Jupyter Notebook / Google Colab
 - Pandas, NumPy, Ski-kit learning
 - Matplotlib, Seaborn
 
----
-
-##  Techniques Used
+###  Techniques Used :- 
 
 - Principal Component Analysis (PCA) – for dimensionality reduction
 - K-Means Clustering – to identify groups of similar exoplanets
@@ -45,20 +49,13 @@ The dataset is “NASA Exoplanet Archive (July 2023)” from Kaggle shows confir
 
 ---
 
-##  Dataset
-
-- Source: [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
-- Format: CSV
-- Contains: Planetary name, discovery method, year of discovery, mass, radius, orbital period, etc.
-
----
-
 ##  Key Insights
 
 - The solar system with the most planets discovered is KOI-351 with 8 planets similar to our solar system.
 - Top 10 nearest exoplanets are within 3.6 light-years from Earth.
-- Exoplanet discovery peaked in 2016 with over 1517 planets discovered and was lowest at 1994 with 1 exoplanet being discovered.
-- Most exoplanets are found at about 270 degree radius and K-Means indicates that there is no clear pattern for distribution of similar exoplanets around earth.
+- Exoplanet discovery peaked in 2016 with over 1517 planets discovered and was lowest at 1994 with 1 exoplanet being discovered.The exoplanets discoveries peaked at 2016 because massive confirmations happened of dobtful findings from KEPLER in that year.
+
+- Using Scatterplot it is clear most exoplanets are found at about 270 degree radius called **Cygnus Lyra region**. The reason is that most telescopes including the Kepler are focused on that area alone due to **Galactic Bulge**(Abundance of suns). The K-Means from same chart indicates that the planet Cluster 4,8,9 are abundant at Cygnus Lyra region. But a pattern in planet distribution can be confirmed only after more exoplanet discoveries in different region. 
 - 3D distribution shows exoplanets at northern sky from earth were mostly discovered in 2016 and exoplantes at southeren sky are mostly discovered after 2018.
 - **Transit** is the most widely used method for discovering exoplanets.
 - Discovery rates increased significantly after 2010, coinciding with the Kepler mission.
