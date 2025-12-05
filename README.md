@@ -1,5 +1,7 @@
 # 🪐 NASA Exoplanet Data Analysis Project
 
+## Introduction
+
 ### What are Exoplanets :-
    An exoplanet is a planet that orbits a star outside of our solar system. There are about 6,000+ such exoplanets discovered currently. This dataset I analysed was publised on july 2023 when only 5,470 were discovered. Eventhough the dataset is published by Nasa,they include all exoplanets ever found around the globe.All discovery methods except pulsar timing uses light and gravity. 
 
