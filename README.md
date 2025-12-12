@@ -16,7 +16,7 @@
 
 The dataset is “NASA Exoplanet Archive (July 2023)” from Kaggle shows confirmed exoplanets discovered as of July 2023 and its different characters like mass, density, eccentricity etc. All these datasets were recorded by different expeditions at different time period. The dataset contains 5470 rows and 26 subset columns (out of 353). Hence Dimension is:-  5470 X 26.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abruz-plotz/Nasa-Exoplanet-Project/blob/main/Nasa%20Exoplanets.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abruz-plotz/Nasa-Exoplanet-Project/blob/main/Nasa%20Exoplanets.ipynb)
 
 ---
 ## 
